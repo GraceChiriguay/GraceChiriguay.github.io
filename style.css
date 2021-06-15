@@ -4,9 +4,7 @@ a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
-    text-align: center;
-    z-index: 10000;
-     font-family: "GothamBook";
+    
 ul#menu {
     font-size: 15px;
     margin: 2;
@@ -21,9 +19,7 @@ ul#menu li {
     margin: 2px;
     float: left;
     text-decoration: underline;
-    text-align: center;
-    z-index: 10000;
-     font-family: "GothamBook";
+
 }
 ul#menu li a {
     color: #1C86EE;
