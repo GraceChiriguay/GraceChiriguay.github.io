@@ -1,11 +1,3 @@
-element.style { 
-}
-user agent stylesheet
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-    
 ul#menu {
     font-size: 15px;
     margin: 0;
