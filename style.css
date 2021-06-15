@@ -1,18 +1,12 @@
-element.style { 
-}
-li a, .dropbtn {
-    display: inline-block;
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    z-index: 10000;
-    font-family: "GothamBook";
-}
+
 user agent stylesheet
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
     text-decoration: underline;
+    text-align: center;
+    z-index: 10000;
+     font-family: "GothamBook";
 ul#menu {
     font-size: 15px;
     margin: 2;
@@ -26,6 +20,10 @@ ul#menu li {
     height: 30px;
     margin: 2px;
     float: left;
+    text-decoration: underline;
+    text-align: center;
+    z-index: 10000;
+     font-family: "GothamBook";
 }
 ul#menu li a {
     color: #1C86EE;
