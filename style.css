@@ -7,8 +7,9 @@ a:-webkit-any-link {
     
 ul#menu {
     font-size: 15px;
-    margin: 2;
-    padding: 5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 ul#menu li {
     background-color: transparent;
